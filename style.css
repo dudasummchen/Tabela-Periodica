@@ -1,0 +1,185 @@
+#tabela{
+display: block;
+width: 2100px;
+height: 1100px;
+background-color: aqua;
+
+}
+.elemento{
+    background-color: rgb(85, 34, 133);
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+    border: 1px solid black;
+    float: left;
+}
+.numeroatomico{
+    width: 100px;
+    height: 10px;
+    display: block;
+    float: left;
+    padding-right: 15px;
+    padding-top: 10px;
+     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+.simbolo{
+    font-size: 40px;
+    display: block;
+    width: 99%;
+    height: 40px;
+    left: 30px;
+    float: right;
+    text-align: center;
+    color: white;
+}
+.nome{
+    color: white;
+    font-size: 15px;
+    padding-right: 40px;
+    display: block;
+    width: 99%;
+    height: 15px;
+    text-align: center;
+}
+
+#alcalinos{
+    display: block;
+    height: 670px;
+    width: 101px;
+    background-color: blue;
+    float: left;
+}
+
+
+#alcalinosterrosos{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    background-color: palevioletred;
+}
+#transicao{
+    width: 1017px;
+    height: 400px;
+    background-color: aqua;
+    float: left;
+    position: relative;
+    top: 304px;
+}
+#representativos{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: -4px;
+
+}
+#carbono{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: 1px;
+}
+#nitrogenio{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: 1px;
+}
+#oxigenio{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: 1px;
+}
+#fluor{
+    width:100px;
+    height: 568px;
+    top: 101px;
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: 1px;
+}
+#gasesnobres{
+    display: block;
+    height: 670px;
+    width: 101px;
+    background-color: blue;
+    float: left;
+    top: -600px;
+}
+#interno{
+    width: 1600px;
+    height: 200px;
+    float: left;
+    position: relative;
+    top: 39px;
+    margin-left: 300px;
+    
+
+    
+}
+    .rosa{
+background-color: #d93057
+
+    }
+.ciano{
+    background-color: #00828e;
+}
+.roxo{
+    background-color: #770099;
+}
+.verde{
+    background-color: #397b42;
+}
+.vermelho{
+ background-color: #e01a23;
+}
+
+.azulforte{
+    background-color: #3420d6;
+}
+.verde{
+    background-color: #10a26d;
+}
+.azulclaro{
+    background-color: #29959f;
+}
+.verdeescuro{
+    background-color: #135040;
+}
+.laranja{
+    background-color: #e98f1c;
+}
+.cinza{
+    background-color: #797d78;
+}
+.rosaclaro{
+    background-color: #da59a7;
+}
+
+
+
+
+
+
+
+
+    
